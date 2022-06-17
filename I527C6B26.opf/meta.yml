@@ -1,0 +1,70 @@
+id: I527C6B26
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:27:44.106910'
+last_modified: '2022-06-17T11:27:44.106916'
+parser: null
+source_metadata:
+  title: Chimé Pakmé Nyingtik
+  language: bo
+  description: Texts related to Chimé Pakmé Nyingtik (‘chi med ‘phags ma'i snying
+    thig), 'The Heart Essence of the Sublime Lady of Immortality', a longevity practice
+    discovered by Jamyang Khyentse Wangpo featuring White Tārā (in the form known
+    as Wish-fulfilling Wheel) in union with Avalokiteśvara (in the form known as Lord
+    of the Dance).
+  volume:
+    fD55D:
+      title: Introduction to Chimé Pakmé Nyingtik
+      base_file: fD55D.txt
+      order: 1
+      parent: Introduction
+    f2DB6:
+      title: 'The Sweet Ambrosia of Immortality: Concise Instructions on the Generation
+        and Completion Phases of the Single-Form Daily Practice of the Heart Essence
+        of the Sublime Lady of Immortality'
+      base_file: f2DB6.txt
+      order: 2
+      parent: Commentaries
+    f7284:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      base_file: f7284.txt
+      order: 3
+      parent: Guru Yoga
+    f22E8:
+      title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+      base_file: f22E8.txt
+      order: 4
+      parent: Lineage Prayers
+    f78A3:
+      title: Brief Supplementary Text for Intensive Practice (Drupchö) of the Sublime
+        Lady of Immortality (Chimé Pakmé Nyingtik)
+      base_file: f78A3.txt
+      order: 5
+      parent: Manuals
+    f6C6A:
+      title: Condensed Daily Practice of The Heart Essence of the Sublime Lady of
+        Immortality
+      base_file: f6C6A.txt
+      order: 6
+      parent: Sādhanas
+    f9005:
+      title: Activities for Uncovering Primordial Wisdom from the Chimé Pakmé Nyingtik,
+        ‘The Heart Essence of the Sublime Lady of Immortality’
+      base_file: f9005.txt
+      order: 7
+      parent: Sādhanas
+    f0A7B:
+      title: The Single-Form Daily Practice from Chimé Pakmé Nyingtik (The Heart Essence
+        of the Sublime Lady of Immortality)
+      base_file: f0A7B.txt
+      order: 8
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
